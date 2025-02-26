@@ -1,0 +1,1 @@
+tensorflow\ntorch\nopencv-python\nmoviepy\nnumpy\nscipy
